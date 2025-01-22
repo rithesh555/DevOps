@@ -1,7 +1,3 @@
 Welcome to Git Demo--
 
-<<<<<<< HEAD
 some new changes
-=======
-new changes
->>>>>>> parent of 306c800 (Revert "This is my second commit")
